@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="ancong@100" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="ancong@100">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/PycharmProjects/deep_reid_sct_pami/dataset/REID-CBD/evaluation" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
