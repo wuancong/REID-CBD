@@ -2,8 +2,8 @@
 REID-CBD is a new multi-site dataset collected in a city CBD, in which most images were captured in nonadjacent scenes, so that the identities rarely appeared across camera views. This real-world scenario is still largely ignored.
 REID-CBD is collected to facilitate research on semi-supervised re-identification on identities rarely crossing camera views.   
 
-###Dataset download  
-Please send a signed [dataset release agreement](https://github.com/wuancong/REID-CBD/agreement/agreement.pdf) copy to wuanc@mail.sysu.edu.cn.
+### Dataset download  
+Please send a signed [dataset release agreement](https://github.com/wuancong/REID-CBD/blob/main/agreement.pdf) copy to wuanc@mail.sysu.edu.cn.
 If your application is passed, we will send the download link of the dataset.  
 **Every pedestrian captured in "train_labeled" folder of REID-CBD has signed a privacy license to allow the images to be used for scientific research and shown in research papers.
 The other pedestrians are not allowed to be shown publicly, whose faces are masked to avoid privacy problem.**
@@ -29,8 +29,8 @@ the gallery image set. The 113,031 images as distractors are added to the galler
 
 
 Here are some examples and statistics of REID-CBD:
-![](https://github.com/wuancong/REID-CBD/imgs/samples.png)
-![](https://github.com/wuancong/REID-CBD/imgs/statistics.png)
+![](https://github.com/wuancong/REID-CBD/blob/main/imgs/samples.png)
+![](https://github.com/wuancong/REID-CBD/blob/main/imgs/statistics.png)
 	
 
 ## Files Description

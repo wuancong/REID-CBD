@@ -6,7 +6,7 @@ torch>=1.13.1+cu117
 Pillow>=9.0.1  
 
 ### Example
-To evaluate checkpoint https://github.com/wuancong/REID-CBD/evaluation/checkpoint/REID-CBD_checkpoint.pth.tar on REID-CBD, run
+To evaluate the [checkpoint](https://github.com/wuancong/REID-CBD/blob/main/evaluation/checkpoint/REID-CBD_checkpoint.pth.tar) learned by our method on REID-CBD, run
 ~~~
 CUDA_VISIBLE_DEVICES=0 python evaluate.py \
 --checkpoint_path checkpoint/REID-CBD_checkpoint.pth.tar \
