@@ -9,7 +9,7 @@ If your application is passed, we will send the download link of the dataset.
 The other pedestrians are not allowed to be shown publicly, whose faces are masked to avoid privacy problem.**
 
 ### Code  
-Testing code: https://github.com/wuancong/REID-CBD/evaluation  
+Testing code: https://github.com/wuancong/REID-CBD/tree/main/evaluation  
 Training code is coming soon.
 
 ## Citation
@@ -42,7 +42,7 @@ In "REID-CBD.zip", the files of training set and testing set are listed in txt f
 
 ## Simulated Datasets
 In our paper, we construct simulated datasets from existing benchmark datasets MSMT17 and DukeMTMC. 
-The lists of training data are in https://github.com/wuancong/REID-CBD/simulated_datasets.  The testing sets and evaluation protocols are the same as the original datasets. 
+The lists of training data are in https://github.com/wuancong/REID-CBD/tree/main/simulated_datasets.  The testing sets and evaluation protocols are the same as the original datasets. 
 
 ## Contact Information
 If you have any questions, please feel free to contact wuanc@mail.sysu.edu.cn.
